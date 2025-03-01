@@ -149,6 +149,9 @@ This project was developed for a hackathon to address real-world agricultural ch
 - Include a cost-benefit analysis feature for crop recommendations.
 - Enhance graph downloads with interactive visualizations.
 
+##Access the bot here:
+https://teamalpha-agriai.streamlit.app/
+
 ---
 
 ## Team
