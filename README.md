@@ -9,7 +9,6 @@ The project is deployed on **Streamlit**, making it accessible online without lo
 This application assists farmers by offering a comprehensive suite of tools to monitor weather, assess soil health, recommend crops, predict plant diseases and pests, and provide expert advice through an AI chatbot. The app is divided into multiple tabs, each serving a distinct purpose, with data flowing seamlessly across modules to enable informed decision-making. Additionally, users can download data in JSON format and graph images for better visualization and analysis.
 
 ---
-
 ## Features
 
 ### 1. Weather Forecast
