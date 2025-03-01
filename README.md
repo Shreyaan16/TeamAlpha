@@ -2,7 +2,7 @@
 
 Welcome to the **AI-Driven Agricultural Assistant**, a Streamlit-based application designed to empower farmers with actionable insights for improving crop productivity and sustainability. Built for a hackathon, this app integrates AI-powered tools to forecast pest and disease risks, analyze soil conditions, optimize crop growth, and provide personalized agricultural advice.  
 
-The project is deployed on **Hugging Face Spaces**, a cloud platform, making it accessible online without local setup.
+The project is deployed on **Streamlit**, making it accessible online without local setup.
 
 ## Project Overview
 
@@ -48,6 +48,15 @@ This application assists farmers by offering a comprehensive suite of tools to m
 - **Output**:
   - Identifies pest/disease type.
   - Suggests actionable treatments and future prevention strategies.
+- **Download**: Prediction results and treatment suggestions available as JSON and annotated images.
+
+### 6. Farm Activity planning using Geofencing and Localized weather
+- **Input**: Farmer inputs location (city / state / coordinates)
+- **Process**:
+  - Using the coordinates (latitude,longitude) generates a geofenced map.
+- **Output**:
+  - Generates weather data for that farm-specific location.
+  - Suggests farm planning recommendation & strategies (sowing/harvesting schedules, irrigation patterns & suggestion in Pest & Fertilizers usage).
 - **Download**: Prediction results and treatment suggestions available as JSON and annotated images.
 
 ---
