@@ -94,13 +94,6 @@ The app follows an intelligent, interconnected workflow to deliver a seamless ex
 
 ---
 
-## Try It Out
-
-The app is live on **Hugging Face Spaces**! Access it here:  
-[**AI-Driven Agricultural Assistant on Hugging Face Spaces**](https://huggingface.co/spaces/<your-username>/<your-space-name>)  
-*(Replace `<your-username>` and `<your-space-name>` with your actual Hugging Face details.)*
-
-No local setup is required—just visit the link, explore the tabs, and download data (JSON files and graphs) as needed!
 
 ---
 
